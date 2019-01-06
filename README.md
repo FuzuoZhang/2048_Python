@@ -1,6 +1,6 @@
 # 2048_Python
 The project is a 2048 game with python and pyqt . The repository includes both source code and executable program.
-I complete this game is to learn python.
+I completed this game to learn python.
 
 **Description of files in the project**
  - GUI_2048.py  
